@@ -1,12 +1,22 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/MonicaBaldner/ems-algashop-docs.git
+	branch = main
 [submodule "microservices/ordering"]
 	path = microservices/ordering
 	url = https://github.com/MonicaBaldner/ems-algashop-ordering.git
+	branch = main
 [submodule "microservices/billing"]
 	path = microservices/billing
 	url = https://github.com/MonicaBaldner/ems-algashop-billing.git
+	branch = main
 [submodule "microservices/product-catalog"]
 	path = microservices/product-catalog
 	url = https://github.com/MonicaBaldner/ems-algashop-product-catalog.git
+	branch = main
+[submodule "template"]
+	path = template
+	url = https://github.com/MonicaBaldner/ems-algashop-template.git
+[submodule "microservices/billing-scheduler"]
+	path = microservices/billing-scheduler
+	url = https://github.com/MonicaBaldner/ems-algashop-billing-scheduler.git
