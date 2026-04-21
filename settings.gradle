@@ -1,0 +1,8 @@
+rootProject.name = 'ems-algashop-meta'
+
+include 'microservices:billing'
+include 'microservices:billing-scheduler'
+include 'microservices:ordering'
+include 'microservices:product-catalog'
+
+include"template"
